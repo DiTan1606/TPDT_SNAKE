@@ -133,20 +133,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-<<<<<<< Updated upstream
-=======
     <ClCompile Include="dieukhien.cpp" />
     <ClCompile Include="dohoa.cpp" />
->>>>>>> Stashed changes
     <ClCompile Include="snake.cpp" />
     <ClCompile Include="TPDT_Snake.cpp" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< Updated upstream
-=======
     <ClInclude Include="dieukhien.h" />
     <ClInclude Include="dohoa.h" />
->>>>>>> Stashed changes
     <ClInclude Include="snake.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
